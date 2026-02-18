@@ -1,6 +1,6 @@
 https://github.com/AbhishekKachala/Ticket-MCC-HD-004780-Windows-Ubuntu-Dual-Boot/blob/0882869a9c17d7d614c68700132efdf0820ecf8b/Ticket-MCC-HD-004780.pdf
 
-On osTicket (support ticket system), I was assigned to prepare a computer with Microsoft Windows 11 and Ubuntu Linux to be installed in dual boot configuration. I uploaded a PDF of the ticket to show my skills in the following:
+On osTicket (support ticket system), I was assigned to prepare a computer with Microsoft Windows 11 and Ubuntu Linux installed in dual boot configuration. I uploaded a PDF of the ticket to show my skills in the following:
 
 - Operating System Installation: Initialized a new SSD and installed both Windows 11 and Ubuntu using a Ventoy bootable drive (pp. 2, 22).
 
